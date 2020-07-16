@@ -1,13 +1,17 @@
 ### Hey, Earthlings! 👋 <img class="profile" src="https://avatars2.githubusercontent.com/u/68380529?s=460&u=b680c39dada6aa6afec8261921e5fafd59813d66&v=4" width="50px" >
 
 <br/>
+
+*****************
+### - Reach me 📫
+
 <p align="center">
 <a href="https://www.linkedin.com/in/vignesh-d-518630126/">
       <img src="res/svg/social/linkedin.svg?sanitize=true" alt="linkedin" style="max-width:100%;">
-
 </a>
 </p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CodeVegeta)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CodeVegeta.CodeVegeta)
 
 <br />
 
@@ -25,16 +29,22 @@
 <br />
 
 *************
-### - Languages and Tools...
-
-<p align="center">
+### - Languages and Frameworks...🔭
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<p align="center">
     <img src="res/svg/dev/frameworks/angular.svg?sanitize=true" alt="angular" style="max-width:100%;">
     <img src="res/svg/dev/frameworks/vue.svg?sanitize=true" alt="vue" style="max-width:100%;">
     <img src="res/svg/dev/languages/html.svg?sanitize=true" alt="html" style="max-width:100%;">
     <img src="res/svg/dev/languages/java.svg?sanitize=true" alt="java" style="max-width:100%;">
     <img src="res/svg/dev/languages/js.svg?sanitize=true" alt="js" style="max-width:100%;">
+</p>
+
+*************
+### - Tools...🔭
+
+<p align="center">
     <img src="res/svg/dev/tools/visualstudio.svg?sanitize=true" alt="visualstudio" style="max-width:100%;">
     <img src="res/svg/dev/tools/jetbrains_intellij.svg?sanitize=true" alt="intellij" style="max-width:100%;">
 </p>
