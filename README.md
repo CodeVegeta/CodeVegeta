@@ -22,8 +22,16 @@
 **Loves to do,**
 
 <p align="center">
-      
-**Web Development <img src="https://image.flaticon.com/icons/svg/867/867644.svg" width=30px>, Micro Services <img src="https://www.flaticon.com/premium-icon/icons/svg/2581/2581755.svg" width=30px>, UI Designing <img src="https://www.flaticon.com/premium-icon/icons/svg/2568/2568999.svg" width=30px>, Competetive Programming<img src="https://image.flaticon.com/icons/svg/3003/3003983.svg" width=30px> & Database management <img src="https://www.flaticon.com/premium-icon/icons/svg/2679/2679901.svg" width=30px>**
+Web Development <img src="https://image.flaticon.com/icons/svg/867/867644.svg" width=30px> 
+</p>
+<p align="center">
+Micro Services <img src="https://www.flaticon.com/premium-icon/icons/svg/2581/2581755.svg" width=30px>
+      </p>
+<p align="center">
+      UI Designing <img src="https://www.flaticon.com/premium-icon/icons/svg/2568/2568999.svg" width=30px>
+      </p>
+<p align="center">
+      <img src="https://image.flaticon.com/icons/svg/3003/3003983.svg" width=30px> Competetive Programming & Database management <img src="https://www.flaticon.com/premium-icon/icons/svg/2679/2679901.svg" width=30px>
 </p>
 
 <br />
