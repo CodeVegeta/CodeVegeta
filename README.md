@@ -21,8 +21,13 @@
 
 **Loves to do,**
 
+<p align="center">
+      
 **Web Development <img src="https://image.flaticon.com/icons/svg/867/867644.svg" width=30px>, Micro Services <img src="https://www.flaticon.com/premium-icon/icons/svg/2581/2581755.svg" width=30px>, UI Designing <img src="https://www.flaticon.com/premium-icon/icons/svg/2568/2568999.svg" width=30px>, Competetive Programming<img src="https://image.flaticon.com/icons/svg/3003/3003983.svg" width=30px> & Database management <img src="https://www.flaticon.com/premium-icon/icons/svg/2679/2679901.svg" width=30px>**
+</p>
+
 <br />
+
 
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=CodeVegeta&show_icons=true&title_color=ffffff&icon_color=fff&text_color=DBD7D2&bg_color=5B3475)](https://github.com/anuraghazra/github-readme-stats)
